@@ -8,8 +8,7 @@ temporary folder. This folder will be erased with every run
 so please do not add sensitive data, and try to retrieve the
 media you find useful for later.
 
-The program uses exiftool, ffmpeg, and curl. Please feel free to use 
-the build I already added on the project, for the ffmpeg build you 
-may encounter a warning saying permission denied, so please use
-chmod +x ./ffmpeg/ffmpeg from the project folder to make sure it works
-correctly, please also install curl for the project to work as expected.
+The program uses exiftool, ffmpeg, and curl. Please add the 
+libraries and correct the paths as needed. For ffmpeg, please
+use a recent version as there may be some mistakes in rotation
+if you use an older version.
