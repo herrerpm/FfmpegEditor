@@ -1,5 +1,5 @@
-# Video Editor
-Hi, welcome to the video editor, to run the program
+# FfmpegEditor
+Hi, welcome to the ffmpeg video editor, to run the program
 it is important that you set your folder in the main class. By
 default you could just add your images to the images folder.
 
