@@ -1,7 +1,8 @@
 # FfmpegEditor
 Hi, welcome to the ffmpeg video editor, to run the program
 it is important that you set your folder in the main class. By
-default you could just add your images to the images folder.
+default add your images to an "images" folder in the src folder
+of the project.
 
 The project will handle the media and output a video in the
 temporary folder. This folder will be erased with every run
